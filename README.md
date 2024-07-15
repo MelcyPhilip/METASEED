@@ -5,5 +5,5 @@ METASEED uses the amplicons and shotgun metagenome reads. The utilization of thi
 
 If you want to test the METASEED method, you can download this tar-archive, untar it, and read its README.html on how to run the procedure on the small sample data set provided: (https://arken.nmbu.no/~pmelcy/share/METASEED/METASEED.tar.gz)
 
-### Read or cite this work
+#### Read or cite this work:
 Philip, M., Rudi, K., Ormaasen, I. et al. METASEED: a novel approach to full-length 16S rRNA gene reconstruction from short read data. BMC Bioinformatics 25, 237 (2024). https://doi.org/10.1186/s12859-024-05837-z
